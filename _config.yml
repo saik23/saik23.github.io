@@ -1,1 +1,37 @@
 theme: jekyll-theme-minimal
+title: saik23
+description: Lets talk about stuff that fascinates us..
+author: Sai Kumar Reddy
+avatar: /logo.png
+email: saikumarreddy.manne@gmail.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+
+# Jekyll SEO Tag (Optional)
+# =========================
+social:
+  name: Sai Kumar Reddy
+  links:
+    - https://www.instagram.com/iam.skr_/
+    - https://github.com/saik23
+lang: en
